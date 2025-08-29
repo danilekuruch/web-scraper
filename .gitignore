@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Scraper/*
+!/Web Scraper/task/
+/Web Scraper/task/*
+!/Web Scraper/task/scraper.py
+!/Web Scraper/task/source.html
+!/Web Scraper/task/Page_2
+!/Web Scraper/task/Page_1
